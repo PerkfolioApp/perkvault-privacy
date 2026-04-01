@@ -1,4 +1,4 @@
-# Privacy Policy — Perkfolio
+# Privacy Policy — PerkVault
 
 **Effective Date:** [3/30/2026]
 **Last Updated:** [3/30/2026]
@@ -7,9 +7,9 @@
 
 ## Overview
 
-Perkfolio ("the App") is a personal credit card benefits tracking application developed by Will Keimig ("we," "us," or "our"). This Privacy Policy explains how we collect, use, and protect your information when you use Perkfolio on your iOS or macOS device.
+PerkVault ("the App") is a personal credit card benefits tracking application developed by Will Keimig ("we," "us," or "our"). This Privacy Policy explains how we collect, use, and protect your information when you use PerkVault on your iOS or macOS device.
 
-We are committed to protecting your privacy. Perkfolio is designed with a local-first approach — the vast majority of your data never leaves your device.
+We are committed to protecting your privacy. PerkVault is designed with a local-first approach — the vast majority of your data never leaves your device.
 
 ---
 
@@ -17,7 +17,7 @@ We are committed to protecting your privacy. Perkfolio is designed with a local-
 
 ### Data You Provide — Stored Locally On Your Device
 
-All personal and financial information you enter into Perkfolio is stored exclusively on your device using Apple's SwiftData framework. This includes:
+All personal and financial information you enter into PerkVault is stored exclusively on your device using Apple's SwiftData framework. This includes:
 
 - Credit and charge card names, networks, and annual fees
 - Card benefit details, dollar values, and usage amounts
@@ -30,7 +30,7 @@ All personal and financial information you enter into Perkfolio is stored exclus
 
 ### Data Sent to Third-Party Services
 
-When you use the flight and travel redemption features within Perkfolio, the following information is sent to **Seats.aero**, a third-party award availability search service:
+When you use the flight and travel redemption features within PerkVault, the following information is sent to **Seats.aero**, a third-party award availability search service:
 
 - Your home airport code (e.g., "ORD", "LAX")
 - Travel dates and destination airport codes you search for
@@ -39,11 +39,11 @@ This data is sent solely for the purpose of retrieving award seat availability a
 
 ### Subscription Data
 
-If you subscribe to Perkfolio Pro, your subscription is processed entirely through Apple's App Store. We do not collect, store, or have access to your payment information. Apple handles all billing and provides us only with anonymized confirmation of your subscription status. Apple's data practices are governed by [Apple's Privacy Policy](https://www.apple.com/legal/privacy/).
+If you subscribe to PerkVault Pro, your subscription is processed entirely through Apple's App Store. We do not collect, store, or have access to your payment information. Apple handles all billing and provides us only with anonymized confirmation of your subscription status. Apple's data practices are governed by [Apple's Privacy Policy](https://www.apple.com/legal/privacy/).
 
 ### Advertising (Future)
 
-We may in the future display advertisements to free-tier users through Google AdMob or similar ad networks. If and when this is implemented, this Privacy Policy will be updated to reflect what data those networks may collect. Perkfolio Pro subscribers will not see advertisements.
+We may in the future display advertisements to free-tier users through Google AdMob or similar ad networks. If and when this is implemented, this Privacy Policy will be updated to reflect what data those networks may collect. PerkVault Pro subscribers will not see advertisements.
 
 ---
 
@@ -72,7 +72,7 @@ We do not sell, rent, trade, or otherwise transfer your personal information to 
 
 ## Data Retention and Deletion
 
-All data stored in Perkfolio lives on your device. You can delete all app data at any time by deleting the Perkfolio app from your device. We do not retain copies of your data on any external server.
+All data stored in PerkVault lives on your device. You can delete all app data at any time by deleting the PerkVault app from your device. We do not retain copies of your data on any external server.
 
 To request information about your data or to raise a privacy concern, contact us at the email address below.
 
@@ -80,7 +80,7 @@ To request information about your data or to raise a privacy concern, contact us
 
 ## Children's Privacy
 
-Perkfolio is not directed at children under the age of 13. We do not knowingly collect any personal information from children under 13. If you believe a child under 13 has provided information through the App, please contact us and we will take steps to remove it.
+PerkVault is not directed at children under the age of 13. We do not knowingly collect any personal information from children under 13. If you believe a child under 13 has provided information through the App, please contact us and we will take steps to remove it.
 
 ---
 
@@ -100,8 +100,8 @@ We may update this Privacy Policy from time to time. When we do, we will update 
 
 If you have any questions, concerns, or requests regarding this Privacy Policy, please contact us at:
 
-**Email:** [perkfolioapp@gmail.com]
-**App:** Perkfolio
+**Email:** [PerkVaultapp@gmail.com]
+**App:** PerkVault
 **Developer:** Will Keimig
 
 ---
