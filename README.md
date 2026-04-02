@@ -28,14 +28,6 @@ All personal and financial information you enter into PerkVault is stored exclus
 
 **This data is never transmitted to our servers because we do not operate any servers or backend infrastructure.** Your financial data remains entirely on your device at all times.
 
-### Data Sent to Third-Party Services
-
-When you use the flight and travel redemption features within PerkVault, the following information is sent to **Seats.aero**, a third-party award availability search service:
-
-- Your home airport code (e.g., "ORD", "LAX")
-- Travel dates and destination airport codes you search for
-
-This data is sent solely for the purpose of retrieving award seat availability and is subject to [Seats.aero's Privacy Policy](https://seats.aero). We do not control how Seats.aero handles this data and encourage you to review their policy.
 
 ### Subscription Data
 
@@ -63,8 +55,6 @@ We do not use your information for marketing, advertising targeting, or any purp
 ## Data Sharing and Disclosure
 
 We do not sell, rent, trade, or otherwise transfer your personal information to any third party, except as described below:
-
-- **Seats.aero** — airport and travel search data as described above
 - **Apple Inc.** — subscription and purchase data processed through the App Store
 - **Legal requirements** — we may disclose information if required to do so by law or in response to valid legal requests
 
