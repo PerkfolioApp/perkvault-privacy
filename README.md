@@ -90,7 +90,7 @@ We may update this Privacy Policy from time to time. When we do, we will update 
 
 If you have any questions, concerns, or requests regarding this Privacy Policy, please contact us at:
 
-**Email:** [PerkVaultapp@gmail.com]
+**Email:** [support@stonhamstudios.com]
 **App:** PerkVault
 **Developer:** Will Keimig
 
